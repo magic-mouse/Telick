@@ -43,5 +43,10 @@
 		"type": "production",
 		"state": "researched",
 		"count": 0
+	}, {
+		"name": "Blacksmith",
+		"type": "production",
+		"state": "tent",
+		"count": 1
 	}]
 }
