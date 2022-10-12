@@ -31,8 +31,8 @@
 	}, {
 		"name": "Bording house",
 		"type": "housing",
-		"state": "under construction",
-		"count": 0
+		"state": "fine",
+		"count": 1
 	}, {
 		"name": "Water mill",
 		"type": "production",
