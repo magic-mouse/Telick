@@ -38,5 +38,10 @@
 		"type": "production",
 		"state": "researched",
 		"count": 0
+	}, {
+		"name": "Tanner",
+		"type": "production",
+		"state": "researched",
+		"count": 0
 	}]
 }
