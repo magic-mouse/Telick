@@ -1,0 +1,46 @@
+{
+  'name':'telick',
+  'rulers':[
+    {
+      'name':'Dagarin Thunderaxe',
+      'title':'Baron'
+    },{
+      'name':'Quinn',
+      'title':'Spymaster, Diplomat'
+    },{
+      'name':'Oliver',
+      'title':'Royal Wizard, Court Druid'
+    }
+  ],
+  'resources':[
+    ['Forest', 'River', 'Coalmine']
+  ],
+  'establishments':[
+    {
+      'name':'Guard House',
+      'type':'defensive',
+      'state':'good',
+      'count':1
+    },{
+      'name':'Wall',
+      'type':'defensive',
+      'state':'fine',
+      'count':1
+    },{
+      'name':'Inn/Tavern',
+      'type':'morale',
+      'state':'fine/under construction',
+      'count':1
+    },{
+      'name':'Bording house',
+      'type':'housing',
+      'state':'under construction',
+      'count':0
+    },{
+      'name':'Water mill',
+      'type':'production',
+      'state':'researched',
+      'count':0
+    },
+  ]
+}
